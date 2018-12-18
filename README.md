@@ -12,3 +12,7 @@ It opens Steam related links in the Steam client.
 2. Extract the downloaded ZIP and then rename "Steamify-master" to "Steamify"  
 3. Open extensions in your Browser and enable "Developer mode"  
 4. Click on "Load unpacked" and then select the "Steamify" folder you extracted/renamed and click OK
+
+# Userscript alternative
+Here's a userscript alternative made bv BierArtworkDesign:  
+https://github.com/BierArtworkDesign/fakkuraSteamifyUserscript

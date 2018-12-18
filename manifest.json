@@ -1,0 +1,30 @@
+{
+  "manifest_version": 2,
+  "name": "Steamify",
+  "description": "Will open steam related links inside the Steam client",
+  "version": "1.0",
+  "icons": {
+      "16": "/icons/icon-16.png",
+      "32": "/icons/icon-32.png",
+      "48": "/icons/icon-48.png",
+      "64": "/icons/icon-64.png",
+      "128": "/icons/icon-128.png"
+   },
+  "permissions":
+  [
+    "http://*/*", "https://*/*"
+  ],
+  "content_scripts":
+  [
+    {
+      "matches":
+      [
+        "http://*/*", "https://*/*"
+      ],
+      "js":
+      [
+        "script.js"
+      ]
+    }
+  ]
+}

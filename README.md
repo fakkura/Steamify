@@ -1,5 +1,5 @@
 # Steamify
-Extension for Chromium based browsers. ( Chrome, Chromium, Vivaldi, Opera )  
+Extension for Chromium and Firefox based browsers.  
 It opens Steam related links in the Steam client.
 
 # Install
@@ -12,6 +12,9 @@ It opens Steam related links in the Steam client.
 2. Extract the downloaded ZIP and then rename "Steamify-master" to "Steamify"  
 3. Open extensions in your Browser and enable "Developer mode"  
 4. Click on "Load unpacked" and then select the "Steamify" folder you extracted/renamed and click OK
+
+# Firefox
+https://addons.mozilla.org/en-US/firefox/addon/steamify/
 
 # Userscript alternative
 Here's a userscript alternative made bv BierArtworkDesign:  
